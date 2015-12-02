@@ -12,3 +12,5 @@ Fix the calculator's js file so that the subtraction, multiplication, division, 
 * [jQuery Documentation](http://jquery.com/) - [.change()](http://api.jquery.com/change/)
 * [jQuery Documentation](http://jquery.com/) - [.val()](http://api.jquery.com/val/)
 * [jQuery Documentation](http://jquery.com/) - [Equal Selector](http://api.jquery.com/eq-selector/)
+
+<a href='https://learn.co/lessons/calculator-user-input' data-visibility='hidden'>View this lesson on Learn.co</a>
